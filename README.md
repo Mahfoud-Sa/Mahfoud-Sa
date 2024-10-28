@@ -4,6 +4,11 @@ a passionate software engineer with a knack for crafting clean, efficient code a
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahfoud-sa) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100003567855582) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%25D366.svg?logo=whatsapp&logoColor=white)](https://wa.me/770266408) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/yourusername) 
+[![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=twitter&logoColor=white)](https://x.com/yourusername)
+
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
