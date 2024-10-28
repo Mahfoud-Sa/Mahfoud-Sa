@@ -27,8 +27,8 @@ a passionate software engineer with a knack for crafting clean, efficient code a
 ![](https://github-readme-stats.vercel.app/api?username=mahfoud-sa&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahfoud-sa&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoud-sa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!--
 ---
 [![](https://visitcount.itsvg.in/api?id=mahfoud-sa&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
