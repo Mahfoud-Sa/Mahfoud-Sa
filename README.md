@@ -1,6 +1,5 @@
 # 💫 About Me:
-a passionate software engineer with a knack for crafting clean, efficient code and building robust software solutions. With 3 years of experience in the field, I've honed my skills in various technologies and methodologies.
-
+Hi! I'm a passionate software developer who enjoys building efficient, scalable, and user-focused applications. I focus on backend systems, API development, and database architecture, aiming to create clean, maintainable, and impactful code.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahfoud-sa) 
